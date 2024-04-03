@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# IDE or Editor files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
